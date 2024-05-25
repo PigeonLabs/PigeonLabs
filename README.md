@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeong2730)](https://solved.ac/jeong2730/)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=jeong2730&theme=warm)
